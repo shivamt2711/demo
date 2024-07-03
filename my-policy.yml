@@ -16,7 +16,6 @@ metadata:
 spec:
   validationFailureAction: enforce
   background: true
-  failurePolicy: Fail
   rules:
   - name: require-image-tag
     match:
